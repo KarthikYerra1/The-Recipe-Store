@@ -11,7 +11,6 @@ import Favorites from "./Components/Favorites";
 import RecipeDetails from "./Components/RecipeDetails";
 import NotFound from "./Components/NotFound";
 
-import "./App.css";
 
 function App() {
   const [inputValue, setInputValue] = useState("");
