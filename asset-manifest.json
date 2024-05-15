@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/the-recipe-store/static/css/main.3d5d2a68.css",
+    "main.js": "/the-recipe-store/static/js/main.51f27ae3.js",
+    "static/js/453.18429434.chunk.js": "/the-recipe-store/static/js/453.18429434.chunk.js",
+    "static/media/bg-image.jpg": "/the-recipe-store/static/media/bg-image.1947fd50c068ea0207e7.jpg",
+    "static/media/errorImg.svg": "/the-recipe-store/static/media/errorImg.fce141ec9c75cbefd5ad68be5d604d3a.svg",
+    "static/media/noData.svg": "/the-recipe-store/static/media/noData.60dcaed085628137d101b2b92f4a9d1a.svg",
+    "static/media/NotFound.svg": "/the-recipe-store/static/media/NotFound.f8b98fdc33295b5e4f6a4f07006f60fb.svg",
+    "index.html": "/the-recipe-store/index.html",
+    "main.3d5d2a68.css.map": "/the-recipe-store/static/css/main.3d5d2a68.css.map",
+    "main.51f27ae3.js.map": "/the-recipe-store/static/js/main.51f27ae3.js.map",
+    "453.18429434.chunk.js.map": "/the-recipe-store/static/js/453.18429434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5d2a68.css",
+    "static/js/main.51f27ae3.js"
+  ]
+}
